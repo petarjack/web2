@@ -19,8 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://wp.xlinkcreator.site/` + encodeURI(path as string)
-				}`,
+					`https://www.effectiveratecpm.com/zgeea3w2if?key=86ae6e9267cef09c1077ea868305e5c6`
 			},
 		};
 		}
